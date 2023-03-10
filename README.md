@@ -2,7 +2,7 @@
 
 * ## The effectiveness of our method on hazy video
 
-     ![image](https://github.com/hello2377/NSDNet/blob/main/Figs/video_hazy.gif) ![image](https://github.com/hello2377/NSDNet/blob/main/Figs/video_hazy_dehazing.gif)
+>>![image](https://github.com/hello2377/NSDNet/blob/main/Figs/video_hazy.gif) ![image](https://github.com/hello2377/NSDNet/blob/main/Figs/video_hazy_dehazing.gif)
 
 * ## Phone-hazy dataset (Non-aligned image pairs in real-world scenes)
 ![image](https://github.com/hello2377/NSDNet/blob/main/Figs/Non-aligned_image_pairs.png)
