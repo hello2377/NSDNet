@@ -11,3 +11,6 @@
 
 * ## More visualization results of NSDNet
 ![image](https://github.com/hello2377/NSDNet/blob/main/Figs/More_results.png)
+
+* ## Statement
+The patent has been submitted before May 2022
