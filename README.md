@@ -1,4 +1,4 @@
-# The code and data will be published as soon as the paper is accepted
+# The code and data will be released as soon as the paper is accepted
 
 * ## The effectiveness of our method on hazy video
   >![image](https://github.com/hello2377/NSDNet/blob/main/Figs/video_hazy.gif) ![image](https://github.com/hello2377/NSDNet/blob/main/Figs/video_hazy_dehazing.gif)
