@@ -1,9 +1,8 @@
 # The code and data will be released after the paper is accepted
 
 * ## The effectiveness of our method on hazy video
-    If the video is not consistent, please refresh the page.
 <p align="center">
-<img src='https://github.com/hello2377/NSDNet/blob/main/Figs/video_hazy1.gif' width='200' height='160'>    <img src='https://github.com/hello2377/NSDNet/blob/main/Figs/video_hazy2.gif' width='200' height='160'>    <img src='https://github.com/hello2377/NSDNet/blob/main/Figs/video_hazy3.gif' width='200' height='160'><br><img src='https://github.com/hello2377/NSDNet/blob/main/Figs/video_hazy_dehazing1.gif' width='200' height='160'>    <img src='https://github.com/hello2377/NSDNet/blob/main/Figs/video_hazy_dehazing2.gif' width='200' height='160'>    <img src='https://github.com/hello2377/NSDNet/blob/main/Figs/video_hazy_dehazing3.gif' width='200' height='160'>
+<img src='https://github.com/hello2377/NSDNet/blob/main/Figs/example_1.gif' width='200' height='325'> <img src='https://github.com/hello2377/NSDNet/blob/main/Figs/example_2.gif' width='200' height='325'> <img src='https://github.com/hello2377/NSDNet/blob/main/Figs/example_3.gif' width='200' height='325'>
 </p>
 
 * ## Phone-hazy dataset (Non-aligned image pairs in real-world scenes)
